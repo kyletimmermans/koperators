@@ -6,7 +6,9 @@ https://stackoverflow.com/questions/16693273/how-do-i-create-a-library
 
 ## ToDo
 - [ ] + concats strings, e.g. "Hello" + "World"
-- [ ] - remove value from array by value e.g. arr - 7, so find all 7's, remove and fix all open spots
+- [ ] - remove value from array by value e.g. arr - 7, so find all 7's, remove and fix all open spots. Array - array takes out all the elements in the right array
+myArray = {1,2,3,4} - {3,4}
+myArray = {1,2}
 - [ ] * multiplies a string e.g. cout << "hi" * 7 which yields hihihihihihihi
 - [ ] / 
 - [ ] -> pushes value onto vector e.g. 7 -> arr
