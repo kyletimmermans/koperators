@@ -14,4 +14,4 @@ from the left array. E.g. myArray = {1,2,3,4} / {3,4} myArray = {1,2}
 - [ ] | mirror, reverse a string or reverse an array e.g. |arr or |"hi"
 - [ ] ~ shuffle string or array E.g. ~"1234" could be "3241"
 - [ ] [] turn ints or strings into int or char arrays e.g. []"hi" = {'h', 'i'}
-  
+- [ ] ^ acts as an exponent superscript E.g. 2^2 = 4  
